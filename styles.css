@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+
+table,
+tr,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  word-spacing: 1px;
+  width: 100%;
+  height: 15px;
+  table-layout: fixed;
+}
+h4{
+	text-align:center;
+}
